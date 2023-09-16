@@ -14,13 +14,7 @@ The Recipe project is a web-based application built using HTML, CSS, and JavaScr
 
 3. **View Recipe Details:** Users can click on a recipe to view its detailed information, including ingredients, instructions, and a larger image.
 
-<!-- 4. **Add Recipes:** Users can add their own recipes to the collection by providing a name, ingredients, instructions, and optional tags. -->
-
-<!-- 5. **Edit and Delete Recipes:** Users can edit or delete their own recipes. -->
-
-<!-- 6. **Save Favorite Recipes:** Users can mark recipes as favorites, which will be stored for future reference. -->
-
-7. **Responsive Design:** The application should be responsive and work well on both desktop and mobile devices.
+4. **Responsive Design:** The application should be responsive and work well on both desktop and mobile devices.
 
 ## Getting Started
 
